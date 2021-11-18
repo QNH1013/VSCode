@@ -17,7 +17,9 @@
 		"ms-python.python",
 		"ms-toolsai.jupyter-keymap",
 		"ms-toolsai.jupyter",
-		"github.vscode-pull-request-github"
+		"github.vscode-pull-request-github",
+		"ms-toolsai.jupyter-renderers",
+		"ms-vscode-remote.remote-containers"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
